@@ -1,4 +1,4 @@
-import streamlit as st
-import g4f
-import nest_asyncio
-import asyncio
+streamlit
+g4f
+nest_asyncio
+curl_cffi
